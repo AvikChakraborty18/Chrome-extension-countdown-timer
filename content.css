@@ -1,0 +1,5 @@
+#countDownWrapper{
+    position: absolute; z-index: 99;top: 0;bottom: 0;right: 0;left: 0;
+}
+#countDownWrapper h1, h3{text-align: center; color: red; font-size: 28px;}
+#countDownWrapper h1{font-size: 40px;}
